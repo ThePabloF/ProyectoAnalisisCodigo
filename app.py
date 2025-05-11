@@ -34,9 +34,4 @@ if __name__ == "__main__":
         tam, nombre,tiempo = resultado
         print(f"Tamaño: {tam}, Metodo: {nombre}, Tiempo: {tiempo: 6f} segundos ")
 
-        tiempos_by_metodo={
-        "burbuja": [],
-        "burbuja_mejorado": [],
-        "seleccion" : [],
-        "shell": [],
-        }
+       
